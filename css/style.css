@@ -1,0 +1,19 @@
+.panda-carousel-bg {
+  background-color: #fceae8;
+}
+.panda-catagories-watch-bg {
+  background-color: #ffa527;
+}
+.panda-catagories-bag-bg {
+  background-color: #da70d6;
+}
+.panda-catagories-shoes-bg {
+  background-color: #0301fa;
+}
+.panda-card-btn-bg {
+  color: white;
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  border-radius: 8px;
+  padding: 9px 25px;
+  border: none;
+}
